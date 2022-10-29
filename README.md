@@ -11,3 +11,8 @@
 * 8 классов церковно-приходской школы в с.Безысходное
 * НГУ
 
+Номер и время последнего коммита:
+commit a3a50541e7398393081dacd79f5ac04f3afbb0c8 (HEAD -> develop)
+Author: torazame <torazame@gmail.com>
+Date:   Sat Oct 29 23:06:19 2022 +0300
+
